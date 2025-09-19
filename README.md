@@ -1,7 +1,7 @@
 # 🐍 Projetos em Python
 
 Bem-vindo ao meu repositório de **projetos em Python**!  
-Aqui organizei diferentes projetos para treinar e demonstrar minha evolução na linguagem, separados por níveis de dificuldade. 🚀  
+Aqui organizei diferentes projetos para treinar e demonstrar minha evolução na linguagem, separados por níveis de dificuldade. 
 
 ---
 
